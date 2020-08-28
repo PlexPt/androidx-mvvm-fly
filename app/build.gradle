@@ -99,7 +99,7 @@ dependencies {
     
 
     //swagger注解支持
-    implementation 'io.swagger:swagger-annotations:1.5.22'
+    implementation 'io.swagger:swagger-annotations:1.6.2'
     compileOnly 'org.projectlombok:lombok:1.18.12'
     annotationProcessor 'org.projectlombok:lombok:1.18.12'
     annotationProcessor rootProject.ext.dependencies["glide-compiler"]
