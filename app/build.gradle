@@ -42,7 +42,7 @@ dependencies {
     implementation 'pub.devrel:easypermissions:2.0.1'
     api 'com.allenliu.versionchecklib:library:2.2.1'
     //1.1.0  是androidx版本
-    api 'com.google.android:flexbox:1.0.0'
+    api 'com.google.android:flexbox:2.0.1'
     api 'top.zibin:Luban:1.1.8'
     api 'com.github.LuckSiege.PictureSelector:picture_library:v2.2.4'
     api 'com.scwang.smartrefresh:SmartRefreshLayout:1.1.0-alpha-28'
