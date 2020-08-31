@@ -144,7 +144,7 @@ dependencies {
     }
     implementation 'com.github.mmin18:realtimeblurview:1.2.1'
     implementation 'pub.devrel:easypermissions:3.0.0'
-    api 'com.allenliu.versionchecklib:library:2.2.1'
+    api 'com.allenliu.versionchecklib:library:2.2.3.1'
     //1.1.0  是androidx版本
     api 'com.google.android:flexbox:2.0.1'
     api 'top.zibin:Luban:1.1.8'
