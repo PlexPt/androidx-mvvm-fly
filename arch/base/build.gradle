@@ -34,6 +34,6 @@ dependencies {
     api rootProject.ext.dependencies["rxandroid"]
     api rootProject.ext.dependencies["mmkv"]
 
-    compileOnly 'org.projectlombok:lombok:1.18.12'
+    compileOnly 'org.projectlombok:lombok:1.18.20'
     annotationProcessor 'org.projectlombok:lombok:1.18.12'
 }
